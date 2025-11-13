@@ -35,3 +35,7 @@ npm install
 Start locally
 ```bash
 npm run dev
+```
+
+## Architecture
+<img width="1034" height="643" alt="Screenshot 2025-11-13 at 8 35 59 PM" src="https://github.com/user-attachments/assets/4852577e-6f1e-452a-a7a2-4f118642e0fc" />
